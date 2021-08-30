@@ -31,5 +31,12 @@ crops . So we make an engine which predict best ph of soil, rainfall,humidity ,e
 
 # 4 Data source
 In this project I will use the DataSet that is given on Kaggle.
-##The dataset link is given below:
+
+The dataset link is given below:
 ## [Data Set](https://drive.google.com/file/d/1bwv36vs6WKgrJeelGPXhNwI_z120-tOi/view)
+
+
+## Support
+
+For support, email itzabdulrehman786@gmail.com
+
